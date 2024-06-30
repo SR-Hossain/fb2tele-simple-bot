@@ -1,5 +1,4 @@
 requests
 beautifulsoup4
-json
 dataclasses
 flask
